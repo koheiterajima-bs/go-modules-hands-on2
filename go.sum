@@ -1,0 +1,4 @@
+github.com/google/go-cmp v0.6.0 h1:ofyhxvXcZhMsU5ulbFiLKl/XBFqE1GSq7atu8tAmTRI=
+github.com/google/go-cmp v0.6.0/go.mod h1:17dUlkBOakJ0+DkrSSNjCkIjxS6bF9zb3elmeNGIjoY=
+github.com/koheiterajima-bs/go-modules-hands-on v0.0.0-20240916050002-da6cd3e04bd0 h1:4hudyUT9p7xjYoPkPP4Q4ziq0+9DbyMLSU/16ShpFrw=
+github.com/koheiterajima-bs/go-modules-hands-on v0.0.0-20240916050002-da6cd3e04bd0/go.mod h1:4JJkwNjnclp2eu6Y5xRHLWgj/0R4vrmdFtxI5WLyXOc=
